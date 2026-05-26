@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Memory Game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <div class="game-container">
+        <button id="reset-btn" onclick="resetGame()">Reset Game</button>
+        <h1>Memory Game</h1>
+        <div class="score-board">
+            Matches: <span id="matches">0</span> / 8 pairs
+        </div>
+        
+        <div class="memory-game" id="game-board"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
