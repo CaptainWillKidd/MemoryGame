@@ -6,7 +6,7 @@ I have built an interactive, browser-based **Memory Match Game** featuring audio
 
 The purpose of writing this software is to demonstrate proficiency in native JavaScript manipulation, efficient data structures (using ES6 array methods for shuffling and matching logic), structural code organization via recursion, and smooth integration of third-party audio packages to enrich web interactivity.
 
-[Software Demo Video](https://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MvMwn5bJ6_4)
 
 # Development Environment
 
